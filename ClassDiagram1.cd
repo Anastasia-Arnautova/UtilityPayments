@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UtilityPayments.Models.PaymentСonsumption">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAIAAAAAAAAAAAIAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Models\PaymentСonsumption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UtilityPayments.Models.PaymentTariff">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAgAAAAEAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Models\PaymentTariff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UtilityPayments.Models.PaymentBill">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAgAAAAAACCAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Models\PaymentBill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

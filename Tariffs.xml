@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PaymentTariff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Electricity>2.64</Electricity>
+  <Gas>7.96</Gas>
+  <Water>25.62</Water>
+  <Garbage>36.51</Garbage>
+</PaymentTariff>

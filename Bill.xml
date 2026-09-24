@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PaymentBill xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AccountNumber>1234567890</AccountNumber>
+  <TenantsCount>2</TenantsCount>
+  <ReportingMonth>1</ReportingMonth>
+  <ReportingYear>2024</ReportingYear>
+  <Сonsumption>
+    <ElectricityDay>100</ElectricityDay>
+    <ElectricityNight>50</ElectricityNight>
+    <Gas>15</Gas>
+    <Water>5</Water>
+  </Сonsumption>
+</PaymentBill>
